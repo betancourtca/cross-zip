@@ -1,7 +1,7 @@
 {
-  "name": "cross-zip",
+  "name": "@betancourtca/cross-zip",
   "description": "Cross-platform .zip file creation",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "author": {
     "name": "Feross Aboukhadijeh",
     "email": "feross@feross.org",
@@ -30,7 +30,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feross/cross-zip.git"
+    "url": "https://github.com/betancourtca/cross-zip.git"
   },
   "scripts": {
     "test": "standard && tape test/*.js"
